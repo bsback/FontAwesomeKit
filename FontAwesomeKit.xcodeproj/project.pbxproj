@@ -28,6 +28,8 @@
 		AD6F205C1D68970600DEF1F0 /* Material-Design-Iconic-Font.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD6F20471D68970600DEF1F0 /* Material-Design-Iconic-Font.ttf */; };
 		AD6F205D1D68970600DEF1F0 /* octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD6F20481D68970600DEF1F0 /* octicons.ttf */; };
 		AD6F205E1D68970600DEF1F0 /* zocial-regular-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD6F20491D68970600DEF1F0 /* zocial-regular-webfont.ttf */; };
+		FFD867AA1F0B7B28009111EE /* FAKMaterial3Icons.h in Headers */ = {isa = PBXBuildFile; fileRef = FFD867A81F0B7B28009111EE /* FAKMaterial3Icons.h */; };
+		FFD867AB1F0B7B28009111EE /* FAKMaterial3Icons.m in Sources */ = {isa = PBXBuildFile; fileRef = FFD867A91F0B7B28009111EE /* FAKMaterial3Icons.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +56,9 @@
 		AD6F20471D68970600DEF1F0 /* Material-Design-Iconic-Font.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Material-Design-Iconic-Font.ttf"; sourceTree = "<group>"; };
 		AD6F20481D68970600DEF1F0 /* octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = octicons.ttf; sourceTree = "<group>"; };
 		AD6F20491D68970600DEF1F0 /* zocial-regular-webfont.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "zocial-regular-webfont.ttf"; sourceTree = "<group>"; };
+		FFD867A71F0B7ACD009111EE /* MaterialIcons-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MaterialIcons-Regular.ttf"; sourceTree = "<group>"; };
+		FFD867A81F0B7B28009111EE /* FAKMaterial3Icons.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FAKMaterial3Icons.h; sourceTree = "<group>"; };
+		FFD867A91F0B7B28009111EE /* FAKMaterial3Icons.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FAKMaterial3Icons.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +96,8 @@
 				AD6F20391D68970600DEF1F0 /* FAKIcon.h */,
 				AD6F203B1D68970600DEF1F0 /* FAKIonIcons.h */,
 				AD6F203D1D68970600DEF1F0 /* FAKMaterialIcons.h */,
+				FFD867A81F0B7B28009111EE /* FAKMaterial3Icons.h */,
+				FFD867A91F0B7B28009111EE /* FAKMaterial3Icons.m */,
 				AD6F203F1D68970600DEF1F0 /* FAKOcticons.h */,
 				AD6F20411D68970600DEF1F0 /* FAKZocial.h */,
 				AD6F202D1D6896B800DEF1F0 /* FontAwesomeKit.h */,
@@ -106,6 +113,7 @@
 				AD6F20441D68970600DEF1F0 /* foundation-icons.ttf */,
 				AD6F20461D68970600DEF1F0 /* ionicons.ttf */,
 				AD6F20471D68970600DEF1F0 /* Material-Design-Iconic-Font.ttf */,
+				FFD867A71F0B7ACD009111EE /* MaterialIcons-Regular.ttf */,
 				AD6F20481D68970600DEF1F0 /* octicons.ttf */,
 				AD6F20491D68970600DEF1F0 /* zocial-regular-webfont.ttf */,
 			);
@@ -123,6 +131,7 @@
 				AD6F20541D68970600DEF1F0 /* FAKOcticons.h in Headers */,
 				AD6F204A1D68970600DEF1F0 /* FAKFontAwesome.h in Headers */,
 				AD6F204C1D68970600DEF1F0 /* FAKFoundationIcons.h in Headers */,
+				FFD867AA1F0B7B28009111EE /* FAKMaterial3Icons.h in Headers */,
 				AD6F204E1D68970600DEF1F0 /* FAKIcon.h in Headers */,
 				AD6F20561D68970600DEF1F0 /* FAKZocial.h in Headers */,
 				AD6F202F1D6896B800DEF1F0 /* FontAwesomeKit.h in Headers */,
@@ -211,6 +220,7 @@
 				AD6F20551D68970600DEF1F0 /* FAKOcticons.m in Sources */,
 				AD6F204D1D68970600DEF1F0 /* FAKFoundationIcons.m in Sources */,
 				AD6F204B1D68970600DEF1F0 /* FAKFontAwesome.m in Sources */,
+				FFD867AB1F0B7B28009111EE /* FAKMaterial3Icons.m in Sources */,
 				AD6F204F1D68970600DEF1F0 /* FAKIcon.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
